@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "minecraft:shipwreck",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 165745295,
+    "spacing": 2,
+    "separation": 1,
+    "spread_type": "triangular"
+  }
+}

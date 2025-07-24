@@ -1,0 +1,27 @@
+{
+  "structures": [
+    {
+      "structure": "minecraft:desert_pyramid",
+      "weight": 1
+    },
+    {
+      "structure": "minecraft:jungle_pyramid",
+      "weight": 1
+    },
+    {
+      "structure": "minecraft:swamp_hut",
+      "weight": 1
+    },
+    {
+      "structure": "minecraft:igloo",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 14357617,
+    "spacing": 4,
+    "separation": 2,
+    "spread_type": "triangular"
+  }
+}
