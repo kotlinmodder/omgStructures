@@ -2,7 +2,7 @@
 Want more structure generation? Want ludicrous structure generation? This is the datapack for that! This will boost the generation density of nether structures, temples (multiple types), mineshafts, ruined portals, shipwrecks, villages, and end cities.
 
 ### Initial beta release
-- Simply download omgStructures.zip, click here to find the downloadable release: https://github.com/kotlinmodder/omgStructures/releases/tag/release01
+- Simply download omgStructures.zip, click here to find the downloadable release: https://github.com/kotlinmodder/omgStructures/releases
 - When creating a new world, put the zip file in your datapacks folder
 - for better performance, increase the "spread" attribute in applicable .json files included in the zip.
 - "distance" value must always be greater than the "spread" value by at least 1.
