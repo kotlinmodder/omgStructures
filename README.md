@@ -1,4 +1,4 @@
-## omgStructures!
+## omgStructures! (For minecraft 1.21.7)
 Want more structure generation? Want ludicrous structure generation? This is the datapack for that! This will boost the generation density of nether structures, temples (multiple types), mineshafts, ruined portals, shipwrecks, villages, and end cities.
 
 ### Initial beta release
